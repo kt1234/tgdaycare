@@ -1,0 +1,146 @@
+/*** sectioning elements ***/
+
+body {
+
+}
+
+header {
+
+}
+
+main {
+  padding: 1cm
+
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+/*==============================================================================
+    Odin component overrides
+  ============================================================================*/
+
+/* navbar*/
+
+.navbar {
+  background-color: ;
+}
+
+.navbar-brand {
+  color: ;
+  font-family: ;
+}
+
+.navbar-menu a:link,
+.navbar-menu a:visited {
+  color: ;
+  font-weight: ;
+}
+
+.navbar-menu a:hover,
+.navbar-menu a:active {
+  border-bottom: ;
+  text-decoration: none;
+}
