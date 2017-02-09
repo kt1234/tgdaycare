@@ -1,7 +1,8 @@
 /*** sectioning elements ***/
 
 body {
-
+  margin: auto;
+  background-color: #80aaff;
 }
 
 header {
@@ -10,7 +11,7 @@ header {
 
 main {
   padding: 1cm
-
+text-align: center;
 }
 
 footer {
@@ -33,7 +34,7 @@ aside {
 /**** content styles ***/
 
 h1 {
-
+font-family: 'Barrio', cursive;
 }
 
 h2 {
@@ -57,7 +58,7 @@ h6 {
 }
 
 p {
-
+text-align: center;
 }
 
 blockquote {
@@ -69,7 +70,9 @@ ol {
 }
 
 ul {
-
+  font-family: 'Barrio', cursive;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 30px;
 }
 
 li {
@@ -125,22 +128,22 @@ a:active {
 /* navbar*/
 
 .navbar {
-  background-color: ;
+  background-color: #ffff80 ;
 }
 
 .navbar-brand {
-  color: ;
-  font-family: ;
+  color: #fff ;
+  font-family: ; cursive
 }
 
 .navbar-menu a:link,
 .navbar-menu a:visited {
-  color: ;
+  color: #000000 ;
   font-weight: ;
 }
 
 .navbar-menu a:hover,
 .navbar-menu a:active {
   border-bottom: ;
-  text-decoration: none;
+  color: #ff3333;
 }
